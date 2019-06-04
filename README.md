@@ -1,5 +1,4 @@
-# 2016CT
-Header file:
+# 2016CT Header File
 
 2016 Census Profiles Files / Profile of Census Tracts
 COL0 - GEO UID
